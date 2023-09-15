@@ -17,12 +17,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Python/C++ Developer and School 21 student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :dart: I’m currently learning Python / PostgreSQL / Algorithms / ML.
+I am a Python/C++ Developer and School 21 student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :dart: I’m currently learning Python / PostgreSQL / Algorithms / ML
 
-- :telescope: I'm interested in backend programming, computer vision, ML and BigData.
+- :telescope: I'm interested in backend programming, computer vision, ML and BigData
 
-- :mailbox: You can get me through telegram or yandex mail, links to which are in the profile header.
+- :mailbox: You can get me through telegram or yandex mail, links to which are in the profile header
 
 ---
 
