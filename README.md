@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 I am a Python/C++ ML Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :dart: I’m currently learning Python / PostgreSQL / Algorithms / ML
+- :dart: I’m currently learning Python / SQL / Algorithms / ML
 
 - :telescope: I'm interested in backend programming, computer vision, ML and BigData
 
