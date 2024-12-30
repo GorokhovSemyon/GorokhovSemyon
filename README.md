@@ -20,7 +20,7 @@
 I am a Python/C++ ML Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :dart: I’m currently learning Python / SQL / Algorithms / ML
 
-- :telescope: I'm interested in backend programming, ML and BigData
+- :telescope: I'm interested in ML, LLM and BigData
 
 - :mailbox: You can get me through telegram or yandex mail, links to which are in the profile header
 
