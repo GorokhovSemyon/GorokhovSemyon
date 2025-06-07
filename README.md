@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 I am a Python/C++ ML/AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :dart: I’m currently practicing Algorithms / ML / AI
+- :dart: I’m currently practicing Multiagent systems
 
 - :telescope: I'm interested in ML, AI and Data Science
 
