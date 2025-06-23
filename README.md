@@ -20,7 +20,7 @@
 I am a Python/C++ ML/AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :dart: I’m currently developing Multiagent systems
 
-- :telescope: I'm interested in ML, AI and Data Science
+- :telescope: I'm interested in ML and AI
 
 - :mailbox: You can get me through telegram or yandex mail, links to which are in the profile header
 
