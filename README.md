@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 I am a Leading Python/C++ ML/AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :dart: I’m currently developing Multiagent systems
+- :dart: I’m currently developing Multiagent and complex RAG systems
 
 - :telescope: I'm interested in ML and AI
 
