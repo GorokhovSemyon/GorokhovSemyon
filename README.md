@@ -43,6 +43,8 @@ I am a Leading Python/C++ ML/AI Developer <img src="https://media.giphy.com/medi
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt alt="Qt" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorokhovSemyon&layout=compact&theme=vision-friendly-dark&hide=CSS,JavaScript,html)](https://github.com/anuraghazra/github-readme-stats)
