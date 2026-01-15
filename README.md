@@ -47,4 +47,4 @@ I am a Leading Python/C++ ML/AI Developer <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorokhovSemyon&layout=compact&theme=vision-friendly-dark&hide=CSS,JavaScript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-bay-85.vercel.app/api/top-langs/?username=GorokhovSemyon&layout=compact&theme=vision-friendly-dark&hide=CSS,JavaScript,html)](https://github.com/anuraghazra/github-readme-stats)
