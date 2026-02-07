@@ -22,7 +22,7 @@ I am a Leading Python/C++ ML/AI Developer <img src="https://media.giphy.com/medi
 
 - :telescope: I'm interested in ML and AI
 
-- :mailbox: You can get me via telegram or yandex mail, links to which are in the profile header
+- :mailbox: You can get me via tg or yandex mail, links to which are in the profile header
 
 ---
 
