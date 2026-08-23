@@ -20,7 +20,7 @@
 I am a Leading Python/C++ ML/AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :dart: I’m currently developing Multiagent and complex RAG systems as architector
 
-- :telescope: I'm interested in ML and AI research and development
+- :telescope: I'm interested in ML and AI research and development.
 
 - :mailbox: You can get me via telegram or yandex mail, links to which are in the profile header
 
